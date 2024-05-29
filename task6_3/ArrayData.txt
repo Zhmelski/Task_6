@@ -1,0 +1,5 @@
+4
+Ellips 1 12 12 45 10 30 14 40 34 14 15 
+HyperlinkLabel 1 100 100 10 10 httpsexample.com 
+TextBox Привет! 100 105 110 1 100 100 30 13 
+Button Выйти 1 44 44 15 10 
